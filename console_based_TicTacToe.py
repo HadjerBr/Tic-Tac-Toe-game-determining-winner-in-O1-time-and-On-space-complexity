@@ -1,4 +1,3 @@
-# In this file, I will optimize defining winner function to O(1)
 
 from ast import Not
 import os
